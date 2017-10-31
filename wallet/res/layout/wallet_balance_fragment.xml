@@ -11,13 +11,13 @@
         android:gravity="center"
         android:orientation="vertical" >
 
-        <de.schildbach.wallet.ui.CurrencyTextView
+        <com.okwallet.ui.CurrencyTextView
             android:id="@+id/wallet_balance_btc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="@dimen/font_size_huge" />
 
-        <de.schildbach.wallet.ui.CurrencyTextView
+        <com.okwallet.ui.CurrencyTextView
             android:id="@+id/wallet_balance_local"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

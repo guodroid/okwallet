@@ -21,7 +21,7 @@
             android:paddingBottom="2dp"
             android:visibility="gone" >
 
-            <de.schildbach.wallet.util.CircularProgressView
+            <com.okwallet.util.CircularProgressView
                 android:id="@+id/transaction_row_confidence_circular_selected"
                 android:layout_width="@dimen/symbol_size_normal"
                 android:layout_height="@dimen/symbol_size_normal"
@@ -50,7 +50,7 @@
             android:baselineAligned="true"
             android:orientation="horizontal" >
 
-            <de.schildbach.wallet.util.CircularProgressView
+            <com.okwallet.util.CircularProgressView
                 android:id="@+id/transaction_row_confidence_circular"
                 android:layout_width="@dimen/symbol_size_normal"
                 android:layout_height="@dimen/symbol_size_normal"
@@ -81,7 +81,7 @@
                 android:singleLine="true"
                 android:textStyle="bold" />
 
-            <de.schildbach.wallet.ui.CurrencyTextView
+            <com.okwallet.ui.CurrencyTextView
                 android:id="@+id/transaction_row_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -108,7 +108,7 @@
                 android:text="@string/transaction_row_fee"
                 android:textColor="@color/fg_insignificant" />
 
-            <de.schildbach.wallet.ui.CurrencyTextView
+            <com.okwallet.ui.CurrencyTextView
                 android:id="@+id/transaction_row_fee"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -131,7 +131,7 @@
                 android:layout_marginRight="8dp"
                 android:layout_weight="1" />
 
-            <de.schildbach.wallet.ui.CurrencyTextView
+            <com.okwallet.ui.CurrencyTextView
                 android:id="@+id/transaction_row_fiat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
