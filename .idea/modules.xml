@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/integration-android/integration-android.iml" filepath="$PROJECT_DIR$/integration-android/integration-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native-scrypt/native-scrypt.iml" filepath="$PROJECT_DIR$/native-scrypt/native-scrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okwallet.iml" filepath="$PROJECT_DIR$/okwallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-integration-android/sample-integration-android.iml" filepath="$PROJECT_DIR$/sample-integration-android/sample-integration-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallet/wallet.iml" filepath="$PROJECT_DIR$/wallet/wallet.iml" />
+    </modules>
+  </component>
+</project>
